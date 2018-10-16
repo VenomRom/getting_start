@@ -1,16 +1,13 @@
-[CENTER][IMG]https://i.imgur.com/askT2Y7.png[/IMG][/CENTER]
+[CENTER][IMG]https://imgur.com/a/AgOfl6V[/IMG][/CENTER]
 
-[IMG]https://i.imgur.com/cw8dKEK.png[/IMG]
-[SIZE="3"][color=#454545]Welcome to [/color][b][i][color=#2f5597]LIQUID REMIX[/color][/i][/b][color=#454545]! Liquid Remix is a [/color][b][color=#1f4e79]New[/color][/b][color=#454545] age mix of all the best ROMs of today with added essence from the older days. [/color][b][color=#1f4e79]Android 9.0 [/b] [/color][color=#454545]project based from the old lead dev of Liquid smooth, [url=https://forum.xda-developers.com/member.php?u=2577558] [/color]Liquid0624, [/url][color=#454545] along with [url=https://forum.xda-developers.com/member.php?u=8404294] VenkatVV, [/url]  and [/color][color=#2f5597]community contributors[/color][color=#454545]! All features are [i]open source[/i] and will stay that way as the community is the most important thing to our project! We enjoy bringing the Android community these ROMs and Kernels for [/color][b][color=#2f5597]YOUR DEVICENAME HERE![/color][/b][color=#454545]; we sincerely hope that you can all enjoy the ROMs as much as we enjoy bringing them to you.[/color]
+[B]About VenomRom[/B]
+[SIZE="3"][color=#454545]Welcome to [/color][b][i][color=#2f5597]VenomRom[/i][/b][color=#454545]! VenomRom is a [color][b][color=#1f4e79]based[/color][/b][color=#454545] on LiquidRemix with handfull Optons, We are trying to give pure experience of android [/color][b][color=#1f4e79]Android 9.0 [/b] [/color][color=#454545]project based from the Liquid Remix, [url=https://forum.xda-developers.com/member.php?u=2577558] [/color]syedsajid, [/url][color] All features are [i]open source[/i] and will stay that way as the community is the most important thing to our project! We enjoy bringing the Android community these ROMs and Kernels for [/color][b][color=#2f5597]YOUR DEVICENAME HERE![/color][/b][color=#454545]; we sincerely hope that you can all enjoy the ROMs as much as we enjoy bringing them to you.[/color]
 [color=#454545] [/color]
 [color=#454545]Our Android Development Team is very end user oriented; we care about what you want and bringing it to you. We do as much as we can to keep our users happy while primarily focusing the aims on stability, speed, optimizations, other additions and features that complement the ROMs as well as some frequently requested user add-ons.[/color]
 [color=#454545] [/color]
-[color=#454545]Have any questions, comments or concerns? We would love to hear from you and keep our users happy, improve where possible when criticized or when bugs are found. Please; let us know on either XDA or [url=https://t.me/LiquidRemixChat] [/color][b]Telegram[/url][color=#454545] [/b] (Our team checks [url=https://t.me/LiquidRemixChat] [/color]telegram[/url][color=#454545] much more often and in live time, also many people including other users often are willing to help provide support.) Without all of you; we wouldn’t be a team or a community. Together [b]YOU ALL are the family that keeps Android Development alive[/b]![/color]
+[color=#454545]Have any questions, comments or concerns? We would love to hear from you and keep our users happy, improve where possible when criticized or when bugs are found. Please; let us know on either XDA or [url=https://t.me/venomos_Chat] [/color][b]Telegram[/url][color=#454545] [/b] (Our team checks [url=https://t.me/LiquidRemixChat] [/color]telegram[/url][color=#454545] much more often and in live time, also many people including other users often are willing to help provide support.) Without all of you; we wouldn’t be a team or a community. Together [b]YOU ALL are the family that keeps Android Development alive[/b]![/color]
 
-Feel free to join our Telegram Chat! [B][url=https://t.me/LiquidRemixChat]Click Here[/url][/B]
-
-Please support us and donate to LiquidRemix [URL=https://PayPal.Me/liquidremix]
-[IMG]https://img.xda-cdn.com/88sHJnBzwDW2WTZfrfOPfRUHG7c=/https%3A%2F%2Fi.imgur.com%2F8iiy8Py.png[/IMG][/URL][/SIZE]
+Feel free to join our Telegram Chat! [B][url=https://t.me/venomos_Chat]Click Here[/url][/B]
 
 [IMG]https://i.imgur.com/oASCEIU.png[/IMG]
 [CODE]/*
@@ -40,8 +37,8 @@ Please support us and donate to LiquidRemix [URL=https://PayPal.Me/liquidremix]
 [color=#454545]8.     Enjoy![/color][/SIZE][/B]
 
 [IMG]https://i.imgur.com/Md3wtO5.png[/IMG]
-[SIZE="3"][color=#454545]ROM - [B][/color][url=https://github.com/LiquidRemix]LiquidRemix[/url][/B]
-Devices - [color=#454545][B][/color][url=https://github.com/LiquidRemix-Devices/]LiquidRemix-Devices[/url][/B]
+[SIZE="3"][color=#454545]ROM - [B][/color][url=https://github.com/VenomRom]VenomRom[/url][/B]
+Devices - [color=#454545][B][/color][url=https://github.com/VenomProject-Devices/]VenomProject-Devices[/url][/B]
 
 [img]https://i.imgur.com/EZUbgNl.png[/img]
 [SIZE="3"]
